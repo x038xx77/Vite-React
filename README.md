@@ -1,6 +1,6 @@
-1) create React app
-2) create vite app
-3)add two app - npm i react-speech-recognition
+1) create React app;
+2) create Vite app;
+3) add to each application: npm i react-speech-recognition.
 
 Solution:
 1) npm i regenerator-runtime
