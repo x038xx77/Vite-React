@@ -3,8 +3,8 @@
 3) add to each application: npm i react-speech-recognition.
 
 Solution:
-1) npm i regenerator-runtime
-2) add main.js: import 'regenerator-runtime/runtime.js';
+1) npm i regenerator-runtime;
+2) add main.js: import 'regenerator-runtime/runtime.js'.
 
 ERROR VITE
 ![Screenshot](Screenshot2022-10-17(vite).png)
