@@ -1,5 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import 'regenerator-runtime/runtime.js';
 import App from './App'
 import './index.css'
 
